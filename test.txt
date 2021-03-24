@@ -1,0 +1,1 @@
+Zaimplementowano kod testowy, w celu analizy działania środowiska unity i rodzaju operacji w języku C#
